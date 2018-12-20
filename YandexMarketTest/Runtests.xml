@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Runtests">
+    <test name = "YandexMarketTest">
+        <classes>
+        <class name = "CityChangeTest">
+        </class>
+            <class name = "FindMouseTest">
+            </class>
+            <class name = "LoginTest">
+            </class>
+            <class name = "DeferredTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>
